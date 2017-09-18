@@ -7,14 +7,14 @@ This workshop is designed to help you gain familiarity with some of the machine 
 ## Timetable
 * 10.00am - 10.30am Welcome Session, with coffee, tea, and biscuits!
 
-* 10.30am - 12.30pm Morning Session
-    * Rob Arbon: [Introduction to the python data science pipeline using a handwritten digits classifier](digitClassification/digits.md)
+* 10.30am - 12.30pm Morning Session: Introduction to the python data science pipeline
+    * Rob Arbon: [Training a support vector machine to undertake handwritten digits classification](digitClassification/digits.md)
 
 * 12.30pm - 2.00pm Lunch (provided)
 
 * 2.00pm – 5.00pm Afternoon Session: Time to explore some simple examples of machine learning applications
-    * Mike O’Connor: [learning body coordinates in virtual reality](vr/learningBodyPose.md)
-    * Silvia Amabilino: [learning potential energy surfaces](pes/learningPESs.md)
+    * Mike O’Connor: [Training a neural net to learn body coordinates in virtual reality](vr/learningBodyPose.md)
+    * Silvia Amabilino: [Kernel ridge regression to learn potential energy surfaces](pes/learningPESs.md)
 
 Note: This course assumes that you have a working version of python3, preferably installed using [Anaconda](https://www.continuum.io/downloads)
 
