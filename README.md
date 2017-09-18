@@ -8,7 +8,7 @@ This workshop is designed to help you gain familiarity with some of the machine 
 * 10.00am - 10.30am Welcome Session, with coffee, tea, and biscuits!
 
 * 10.30am - 12.30pm Morning Session
-    * Rob Arbon: Introduction to the python data science pipeline using a handwritten digits classification example. To get started, click [here](digitClassification/digits.md)
+    * Rob Arbon: [Introduction to the python data science pipeline using a handwritten digits classifier](digitClassification/digits.md)
 
 * 12.30pm - 2.00pm Lunch (provided)
 
