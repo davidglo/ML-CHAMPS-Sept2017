@@ -1,4 +1,4 @@
-# ML-CHAMPS-Sept2017
+# CHAMPS Machine Learning - Sept2017
 
 Welcome to the Sept 2017 CHAMPS machine learning workshop, which has been co-created by Rob Arbon, Silvia Amabilino, Lars Bratholm, Mike O'Connor, and David Glowacki
 
