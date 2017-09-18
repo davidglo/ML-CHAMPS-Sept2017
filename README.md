@@ -1,8 +1,6 @@
 # ML-CHAMPS-Sept2017
 
-Welcome to the Sept 2017 CHAMPS machine learning workshop!
-
-Rob Arbon, Silvia Amabilino, Lars Bratholm, Mike O'Connor, and David Glowacki
+Welcome to the Sept 2017 CHAMPS machine learning workshop, which has been co-created by Rob Arbon, Silvia Amabilino, Lars Bratholm, Mike O'Connor, and David Glowacki
 
 This workshop is designed to help you gain familiarity with some of the machine learning learning tools available in Python, so that you can think about applying these tools to your own workflows.
 
