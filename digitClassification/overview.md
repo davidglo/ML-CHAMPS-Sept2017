@@ -22,7 +22,7 @@
 
 ---
 
-## Pipeline
+## Pipeline part 1
 1. Scale features so $$\mu = 0, \sigma = 1$$
 2. Dimensionality reduction with Principal Components Analysis (PCA)
 ```python
@@ -32,7 +32,10 @@
 >>> X_pca.shape
 (1979, 20)
 ``` 
-3. Estimate regression coefficients in multinomial logisitic classifier with regularization $$C = ...$
+---
+## Pipeline part 2
+
+3. Estimate regression coefficients in multinomial logisitic classifier with regularization $$C = ...$$
 4. Use cross-validation to choose regularization and number of PCA components to retain based on accuracy
   
 
