@@ -15,7 +15,7 @@ This workshop is designed to help you gain familiarity with some of the machine 
 
 * 2.00pm – 5.00pm Afternoon Session: Time to explore some simple machine learning application examples
     * Lars Bratholm & Mike O’Connor: [Training a neural net to learn body coordinates in virtual reality](vr/learningBodyPose.md)
-    * Silvia Amabilino: [Kernel ridge regression to learn potential energy surfaces](pes/learningPESs.md)
+    * Silvia Amabilino: [Neural networks to learn potential energy surfaces](pes/learningPESs.md)
 
 This course is formulated as a set of Jupyter scripts that you can download onto your own machine and work through at your own pace. We will be around to answer questions.
 
