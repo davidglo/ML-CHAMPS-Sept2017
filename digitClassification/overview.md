@@ -1,2 +1,2 @@
 # Digit Classification 
-![Logo](digitClassification/figures/classification.png)
+![Logo](assets/classification.png)
