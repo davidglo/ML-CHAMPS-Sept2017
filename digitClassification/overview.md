@@ -14,9 +14,22 @@
 * Total samples: 1797
 
 ```python
->>> X.shape
+>>> from sklearn.datasets import load_digits
+>>> digits = load_digits()
+>>> print(digits.data.shape)
 (1797, 64)
 ```
+
+---
+
+## Pipeline
+
+$$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$
+
+1. Scale features 
+
+
+
 
 
 
