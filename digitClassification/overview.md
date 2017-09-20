@@ -1,3 +1,6 @@
 # Digit Classification 
+## Using PCA and Logistic Regression
 
-![Logo](digitClassification/assets/classification.png)
+---?image=digitClassification/assets/classification.png&size=contain
+
+
