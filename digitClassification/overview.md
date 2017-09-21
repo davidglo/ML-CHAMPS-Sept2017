@@ -39,15 +39,15 @@
 On training data: 
 
 1. Scale features: $\mu(x_i) = 0, \sigma(x_i) = 1, i = 1 ... 64$
-2. Dimensionality reduction with Principal Components Analysis (PCA)
-3. Fit multinomial logisitic classifier with regularization $C \in (10^{-4}, 10^{4}) $
-4. Use cross-validation to choose regularization and number of PCA components to retain based on accuracy
+2. Dimensionality reduction with Principal Components Analysis ([PCA](https://en.wikipedia.org/wiki/Principal_component_analysis))
+3. Fit [multinomial logisitic classifier](https://en.wikipedia.org/wiki/Multinomial_logistic_regression) with regularization $C \in (10^{-4}, 10^{4}) $
+4. Use [cross-validation](https://en.wikipedia.org/wiki/Cross-validation_(statistics)) to choose [regularization](https://en.wikipedia.org/wiki/Regularization_(mathematics)) and number of PCA components to retain based on accuracy
  
 ---?image=digitClassification/assets/cv_results.png&size=contain
 
 ---
 
-On test data using optimal hyper-parameters:
+On test data, using optimal hyper-parameters:
 ```python
 >>> test_score = estimator.score(X_test, y_test)
 >>> print('Score on test data: {:4.2f}%'.format(test_score*100))
