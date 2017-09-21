@@ -21,4 +21,16 @@ This course is formulated as a set of Jupyter scripts that you can download onto
 
 It assumes that you have a working version of python3, preferably installed using [Anaconda](https://www.continuum.io/downloads)
 
+## Short instructions on jupyter notebooks
+
+If you have installed Anaconda, you should already have jupyter notebooks (as explained [here](http://jupyter.readthedocs.io/en/latest/install.html)).
+
+To run notebooks, navigate to the directory that contains the notebook (files with extension `.ipynb`). Then type the following command:
+
+`jupyter notebook`
+
+This will open a browser window where you can see all the files contained in the directory from which you typed the `jupyter notebook` command. Click on the notebook that you want to open. This will open it in a new tab. 
+
+To run a cell in the notebook press `shift + enter`.
+
 
