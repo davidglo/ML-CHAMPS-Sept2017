@@ -9,7 +9,7 @@ This workshop is designed to help you gain familiarity with some of the machine 
 
 * 10.30am - 12.30pm Morning Session
     * Rob Arbon and David Glowacki: a brief introduction to the python data science pipeline
-    * Rob Arbon: [Training a support vector machine to undertake handwritten digits classification](digitClassification/digits.md)
+    * Rob Arbon: [Logistic regression for handwritten digits classification](digitClassification/digits.md)
 
 * 12.30pm - 2.00pm Lunch (provided)
 
