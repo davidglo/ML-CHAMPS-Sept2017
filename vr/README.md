@@ -9,4 +9,8 @@ Take a look at [these slides](https://uob-my.sharepoint.com/personal/lb17101_bri
 3. scikit-learn
 
 ## Visualisation:
-The renderer for visualising the predictions can be found in the bin folder
+In the notebook we visualise the predictions with a 3D-renderer.
+Pre-compiled versions for windows, mac and linux are available in the [bin directory](https://github.com/davidglo/ML-CHAMPS-Sept2017/tree/master/vr/bin).
+To visualise the predictions, execute the binary for your operating system, select 800x600 and pres OK.
+When running the notebook a server will be started that sends data to the renderer.
+At this point, pres the connect button in the renderer.
