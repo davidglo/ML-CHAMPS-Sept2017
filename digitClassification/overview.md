@@ -41,7 +41,7 @@ On training data:
 1. Scale features: $\mu(x_i) = 0, \sigma(x_i) = 1, i = 1 ... 64$
 2. Dimensionality reduction with Principal Components Analysis ([PCA](https://en.wikipedia.org/wiki/Principal_component_analysis))
 3. Fit [multinomial logisitic classifier](https://en.wikipedia.org/wiki/Multinomial_logistic_regression) with regularization $C \in (10^{-4}, 10^{4}) $
-4. Use [cross-validation](https://en.wikipedia.org/wiki/Cross-validation_(statistics)) to choose [regularization](https://en.wikipedia.org/wiki/Regularization_(mathematics)) and number of PCA components to retain based on accuracy
+4. Use [cross-validation](https://en.wikipedia.org/wiki/Cross-validation_(statistics) to choose [regularization](https://en.wikipedia.org/wiki/Regularization_(mathematics) and number of PCA components to retain based on accuracy
  
 ---?image=digitClassification/assets/cv_results.png&size=contain
 
