@@ -1,5 +1,7 @@
 # Jupyter notebook
 
+[Documentation](http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html)
+
 1. Launch from command line: 
 
     ```
@@ -19,4 +21,12 @@
     In [2]: print(a+b)
     3
     ```
+    3. `alt/option + enter` runs code and inserts new cell below. 
 
+4. Many more options from menu bar:
+    ![alt text](https://github.com/jupyter/notebook/blob/master/docs/source/examples/Notebook/images/menubar_toolbar.png "JNB toolbar")
+    1. `Insert` allows you to insert cells
+    2. `Cell` allows specific control on how to run cells
+    3. `Kernel` controls the Python kernel used to run calculations.  Restart kernel from here if things get stuck!
+
+5. Cells can be markdown or code - controlled from dropdown menu or from `cell` menu. 
