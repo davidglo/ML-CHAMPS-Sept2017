@@ -68,9 +68,10 @@ def generate_message(f, feature_labels_full,t, target_labels_full,p, pred_labels
     :param pred_labels_full: labels for predicted data
     :return: a dictionary containing the message to be sent to the renderer
     """
-    feature_dict = generate_dictionary_for_data(f, feature_labels_full)
-    target_dict = generate_dictionary_for_data(t, target_labels_full)
-    pred_dict = generate_dictionary_for_data(p, pred_labels_full)
+    # The 1.5 factor is just a last minute scaling fix
+    feature_dict = generate_dictionary_for_data(f*1.5, feature_labels_full)
+    target_dict = generate_dictionary_for_data(t*1.5, target_labels_full)
+    pred_dict = generate_dictionary_for_data(p*1.5, pred_labels_full)
     return merge_dictionaries(feature_dict, target_dict, pred_dict)
 
 
