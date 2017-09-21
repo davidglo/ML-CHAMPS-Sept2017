@@ -29,7 +29,7 @@ To run notebooks, navigate to the directory that contains the notebook (files wi
 
 `jupyter notebook`
 
-This will open a browser window where you can see all the files contained in the directory from which you typed the `jupyter notebook` command. Click on the notebook that you want to open. This will open it in a new window. 
+This will open a browser window where you can see all the files contained in the directory from which you typed the `jupyter notebook` command. Click on the notebook that you want to open. This will open it in a new tab. 
 
 To run a cell in the notebook press `shift + enter`.
 
