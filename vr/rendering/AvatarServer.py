@@ -68,7 +68,7 @@ def generate_message(f, feature_labels_full,t, target_labels_full,p, pred_labels
     :param pred_labels_full: labels for predicted data
     :return: a dictionary containing the message to be sent to the renderer
     """
-    # The 1.5 factor is just a last minute scaling fix
+    # The 1.5 factor is just a last minute scaling fixi
     feature_dict = generate_dictionary_for_data(f*1.5, feature_labels_full)
     target_dict = generate_dictionary_for_data(t*1.5, target_labels_full)
     pred_dict = generate_dictionary_for_data(p*1.5, pred_labels_full)
@@ -278,7 +278,7 @@ class AvatarServer:
         self.clientsocket = None
 
 
-    def send_object(self, dictionary):
+    def send_object(self, dictionary, verbose=False):
         """
         Sends an object over the connection, by serializing it to json. 
         :param dictionary: The dictionary of values to be sent. 
@@ -287,7 +287,8 @@ class AvatarServer:
         if self.clientsocket is None:
             raise ValueError("No client connected.")
         json_obj = json.dumps(pretty_floats(dictionary), separators=(',',':')) + "\n"
-        print(("Transmitting string", json_obj))
+        if verbose:
+            print(("Transmitting string", json_obj))
 
         try:
             self.clientsocket.sendall(json_obj.encode('ascii'))
