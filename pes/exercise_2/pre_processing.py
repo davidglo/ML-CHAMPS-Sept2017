@@ -195,7 +195,7 @@ class CoulombMatrix():
                     'N': 7.0
                  }
 
-        self.n_atoms = len(self.rawX[0])/4
+        self.n_atoms = int(len(self.rawX[0])/4)
         self.n_samples = len(self.rawX)
 
 
