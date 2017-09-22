@@ -1,6 +1,8 @@
 # Fitting potential energy surfaces with neural networks
 
-For a short introduction to why neural networks are being used to fit potential energy surfaces, you can have a look at these [slides](https://docs.google.com/presentation/d/1Qak8kyw-53VFJNIj1ijKaClboxogFoIMY_f62O1DedI/edit?usp=sharing). In this folder there are two exercises. 
+For a short introduction to why neural networks are being used to fit potential energy surfaces, you can have a look at these [slides](https://docs.google.com/presentation/d/1Qak8kyw-53VFJNIj1ijKaClboxogFoIMY_f62O1DedI/edit?usp=sharing). If you want an introduction to the basics of neural networks, you can find it [here](http://ufldl.stanford.edu/tutorial/supervised/MultiLayerNeuralNetworks/). 
+
+In this folder there are two exercises. 
 
 ## Exercise 1
 The first exercise is aimed at a beginner and focuses on fitting a quadratic function with a neural network. 
