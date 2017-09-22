@@ -33,4 +33,12 @@ This will open a browser window where you can see all the files contained in the
 
 To run a cell in the notebook press `shift + enter`.
 
+## Links
+
+[Kaggle - Data Science Competitions](https://www.kaggle.com/competitions)
+
+[A neural algorithm of artistic style](https://arxiv.org/abs/1508.06576)
+
+[Elements of statistical learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
+
 
