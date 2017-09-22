@@ -19,6 +19,7 @@ This workshop is designed to help you gain familiarity with some of the machine 
 
 * 2.00pm – 5.00pm Afternoon Session: Time to explore some simple machine learning application examples
     * Rob Arbon: [Logistic regression for handwritten digits classification](https://gitpitch.com/davidglo/ML-CHAMPS-Sept2017#)
+      * Python tricks for data normalization
       * dimensionality reduction using principle component analysis
       * visualization using Pandas
     * Lars Bratholm & Mike O’Connor: [Training a neural net to learn body coordinates in virtual reality](https://github.com/davidglo/ML-CHAMPS-Sept2017/tree/master/vr/)
@@ -51,8 +52,3 @@ To run a cell in the notebook press `shift + enter`.
 
 [Elements of statistical learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
 
-
-* 11:00 Learning more about Python
-    * [A Python Framework for Simple Game Mechanics](Python/I-pyGlet-GameMechanics.md)
-    * Basic Python features
-      * [containe
