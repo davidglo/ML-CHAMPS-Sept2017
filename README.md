@@ -21,11 +21,13 @@ This course is formulated as a set of Jupyter scripts that you can download onto
 
 It assumes that you have a working version of python3, preferably installed using [Anaconda](https://www.continuum.io/downloads)
 
-## Short instructions on jupyter notebooks
+## Short instructions on how to run jupyter notebooks
 
 If you have installed Anaconda, you should already have jupyter notebooks (as explained [here](http://jupyter.readthedocs.io/en/latest/install.html)).
 
-To run notebooks, navigate to the directory that contains the notebook (files with extension `.ipynb`). Then type the following command:
+First, you should download a *.zip file of the entire git repo. you can do this by going to the [link](https://github.com/davidglo/ML-CHAMPS-Sept2017/tree/master/pes), clicking the green "Clone or Download button", and then choosing the "Download ZIP" option. You can put the *.zip file anywhere that you want on your computer.
+
+To run notebooks, navigate to the directory that contains the notebook which you want to run (files with extension `.ipynb`). Then type the following command:
 
 `jupyter notebook`
 
@@ -33,14 +35,14 @@ This will open a browser window where you can see all the files contained in the
 
 To run a cell in the notebook press `shift + enter`.
 
-## Links
+## Some useful Links
+
+[Tensorflow playground lets you construct your own neural network for simple classification tasks](http://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.41885&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
 
 [Kaggle - Data Science Competitions](https://www.kaggle.com/competitions)
 
 [A neural algorithm of artistic style](https://arxiv.org/abs/1508.06576)
 
 [Elements of statistical learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
-
-[Tensorflow playground](http://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.41885&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
 
 
