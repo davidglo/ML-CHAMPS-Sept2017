@@ -8,7 +8,7 @@
 ## Data: 
 
 * *Classes*: handwritten digits 1 - 10
-* *Features*: integers 0 - 16 (BW intensity)
+* *Features*: integers 0 - 16 (BW intensity) - the pixels are the features. 
 * *Dimensionality*: 64 (8 x 8 pixels)
 * ~180 examples per class
 * Total samples: 1797
