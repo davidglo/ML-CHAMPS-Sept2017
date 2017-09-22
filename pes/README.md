@@ -7,11 +7,11 @@ The first exercise is aimed at a beginner and focuses on fitting a quadratic fun
 
 The packages required for this exercise are:
 
-1. Scikit learn
-2. Seaborn
-3. Pandas
-4. Matplotlib
-5. Numpy
+1. scikit-learn
+2. seaborn
+3. pandas
+(4. Matplotlib)
+(5. Numpy)
 
 ## Exercise 2
 
@@ -22,5 +22,5 @@ The packages required for this exercise are:
 1. Scikit learn
 2. Seaborn
 3. Pandas
-4. Matplotlib
-5. Numpy
+(4. Matplotlib)
+(5. Numpy)
