@@ -8,20 +8,21 @@ This workshop is designed to help you gain familiarity with some of the machine 
 * 10.00am - 10.30am Welcome Session, with coffee, tea, and biscuits!
 
 * 10.30am - 12.30pm Morning Session
-    * David Glowacki: a brief introduction to machine learning and the data science pipeline
+    * David Glowacki: A brief introduction to machine learning and the data science pipeline
     * Silvia Amabilino: [Neural networks to fit potential energy functions](https://github.com/davidglo/ML-CHAMPS-Sept2017/tree/master/pes)
-      * Neural Networks
+      * A (very) brief overview of feed-forward neural networks
       * Regularisation
-      * the Python data science pipeline 
+      * The Python data science pipeline 
       * Hyperparameter Optimization
 
 * 12.30pm - 2.00pm Lunch (provided)
 
 * 2.00pm – 5.00pm Afternoon Session: Time to explore some simple machine learning application examples
     * Rob Arbon: [Logistic regression for handwritten digits classification](https://gitpitch.com/davidglo/ML-CHAMPS-Sept2017#)
+      * A (very) brief overview of logistic regression
       * Python tricks for data normalization
-      * dimensionality reduction using principle component analysis
-      * visualization using Pandas
+      * Dimensionality reduction using principle component analysis
+      * Using Pandas for data analysis
     * Lars Bratholm & Mike O’Connor: [Training a neural net to learn body coordinates in virtual reality](https://github.com/davidglo/ML-CHAMPS-Sept2017/tree/master/vr/)
 
 This course is formulated as a set of Jupyter scripts that you can download onto your own machine and work through at your own pace. We will be around to answer questions.
